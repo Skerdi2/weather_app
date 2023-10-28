@@ -1,7 +1,7 @@
 package org.example.model;
 import javax.persistence.*;
 import java.util.UUID;
-@Entity/kot
+@Entity//kot
 @Table(name = "location")
 public class Location {
     @Id
